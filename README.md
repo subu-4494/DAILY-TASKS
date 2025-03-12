@@ -18,7 +18,7 @@ The **DAILY-TASKS Web App** is a simple and interactive task management applicat
 - **Backend:** Node.js 
 
 ## 🖼️ Screenshots
-![To-Do App Screenshot](images/ss.png/800x400)
+![To-Do App Screenshot](images/ss.png)
 
 ## 🌍 Live Demo
 Check out the live demo: [Live App](https://subu-4494.github.io/DAILY-TASKS/)
